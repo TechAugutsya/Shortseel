@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shortseel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="comment_icon_description">Comment Icon. Click here to comment</string>
+    <string name="reaction_icon_description">Reaction Icon. Click here to react.</string>
+    <string name="shortseel">Shortseel</string>
+</resources>
